@@ -1,0 +1,62 @@
+body {
+    background-color: #234E70;
+}
+
+.form {
+    margin: 160px auto;
+    width: 300px;
+    padding: 30px 30px;
+    border-radius: 10px;
+    border: solid 2px;
+    background-color: #fff;
+}
+
+.user-details {
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 2px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+    color: #000;
+}
+
+.user-details:focus {
+    border-color: #6e8095;
+    outline: none;
+    color: #000;
+}
+
+.login-button {
+    color: #fff;
+    background: #62ba04;
+    border: 0;
+    outline: 0;
+    width: 80%;
+    height: 30px;
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: 25px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.password {
+    margin-left: 50px;
+}
+
+.link {
+    color: #000;
+    font-size: 18 px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.link a {
+    color: #000;
+}
+
+img.logo {
+    margin-left: 75px;
+    width: 50%;
+}
